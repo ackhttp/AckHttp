@@ -23,7 +23,8 @@
 - **Instalação**: Ao instalar o script pela primeira vez, você pode optar por uma instalação assistida ao vivo ou em segundo plano. Durante o processo, você será notificado sobre o progresso e qualquer necessidade de intervenção, podendo receber essas notificações por email ou Telegram.
 
 # Contato para Compra
-![download](https://github.com/user-attachments/assets/a3b61e65-225e-4871-8180-50f228cb4efa)
+![Telegram-app-700x394](https://github.com/user-attachments/assets/dd75b0eb-c9e7-4860-953a-1ebc46d11bf3)
+
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
