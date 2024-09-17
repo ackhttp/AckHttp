@@ -127,10 +127,10 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
   - ![Screenshot_20240917-022325_Telegraph~2](https://github.com/user-attachments/assets/bda43b9e-483a-47fc-98a8-ddc9c175ae90)
 - ![Screenshot_20240917-022356_Telegraph~2](https://github.com/user-attachments/assets/bd271d61-1426-4c3f-8a87-be3b2f37ce90)
 
-  - **BFoxyup e Restauração**: Oferece a capacidade de criar e restaurar bFoxyups diretamente pelo bot.
+  - **Backup e Restauração**: Oferece a capacidade de criar e restaurar backups diretamente pelo bot.
   - ![Screenshot_20240917-015148_Telegraph~2](https://github.com/user-attachments/assets/ad20bfb8-5e3e-49b5-89d5-1ae3f6e283e2)
 
-  - **BFoxyup Automático**: Se ativado, o bot pode gerar bFoxyups automaticamente a cada 2 horas, garantindo que seus dados sejam sempre protegidos e atualizados.
+  - **Backup Automático**: Se ativado, o bot pode gerar backups automaticamente a cada 2 horas, garantindo que seus dados sejam sempre protegidos e atualizados.
 -![Screenshot_20240917-022637_Telegraph~2](https://github.com/user-attachments/assets/3e095838-8413-4760-8e24-2c48772f20a5)
 
 
@@ -145,13 +145,14 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
 ![Screenshot_20240917-015131_Telegraph~2](https://github.com/user-attachments/assets/9e2e30e0-ce23-443a-b5c6-a77f93e24e44)
 
 ### CheckUser Universal
-Usuário Comum
-![Screenshot_20240917-023341_HTTP Custom~2](https://github.com/user-attachments/assets/dda1779c-0ae1-437b-ad25-c386542eb59b)
-Usuário Teste
-![Screenshot_20240917-023539_HTTP Custom~2](https://github.com/user-attachments/assets/d1961597-8bc6-4aab-a7ed-c278ebcec5ff)
 
 - **Informações do Usuário**: O sistema inclui uma funcionalidade de `checkuser` universal que exibe informações detalhadas sobre o usuário em qualquer aplicativo VPN. Quando um usuário se conecta, o registro de conexão mostra:
   - **Data de Criação**: Quando o usuário foi criado.
   - **Vencimento**: Data de vencimento do acesso.
   - **Limite**: Limite de uso do usuário.
   - **Tipo de Usuário**: Indica se o usuário é **premium** (para usuários regulares) ou **temporário** (para testes).
+
+Usuário Comum
+![Screenshot_20240917-023341_HTTP Custom~2](https://github.com/user-attachments/assets/dda1779c-0ae1-437b-ad25-c386542eb59b)
+Usuário Teste
+![Screenshot_20240917-023539_HTTP Custom~2](https://github.com/user-attachments/assets/d1961597-8bc6-4aab-a7ed-c278ebcec5ff)
