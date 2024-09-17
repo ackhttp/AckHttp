@@ -161,9 +161,6 @@ Usuário Comum
 Usuário Teste
 ![Screenshot_20240917-023539_HTTP Custom~2](https://github.com/user-attachments/assets/d1961597-8bc6-4aab-a7ed-c278ebcec5ff)
 
-===============
-Entendi! Aqui está uma versão mais adequada para o contexto de um README no GitHub:
-
 ---
 
 ## 🧡 Agradecimentos
