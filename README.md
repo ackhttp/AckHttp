@@ -52,8 +52,6 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 
    - **Instalação em Segundo Plano**: Se você optar pela instalação em segundo plano, o script será executado fora do terminal, permitindo que você continue usando o sistema normalmente enquanto a instalação ocorre. As notificações sobre o progresso e quaisquer necessidades de intervenção serão enviadas por email ou Telegram, conforme sua escolha.
 
-5. **Receba Notificações**: Escolha entre notificações por email ou Telegram para acompanhar o progresso da instalação e receber alertas importantes.
-
 ## Funcionalidades
 
 ### Menu Principal
