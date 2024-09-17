@@ -11,46 +11,43 @@
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
+![Screenshot_20240917-050745_Termius~4](https://github.com/user-attachments/assets/ded68769-7db4-4b3a-aedb-2abb2ecbb3cc)
+
 
 - **Preço**: O script está disponível a partir de R$7,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
+- ![Screenshot_20240917-050040_Termius~3](https://github.com/user-attachments/assets/c7612ba7-b3a1-4954-9c3d-d6f6b06be2e8)
+
 - **Instalação**: Ao instalar o script pela primeira vez, você pode optar por uma instalação assistida ao vivo ou em segundo plano. Durante o processo, você será notificado sobre o progresso e qualquer necessidade de intervenção, podendo receber essas notificações por email ou Telegram.
 
 # Contato para Compra
+![download](https://github.com/user-attachments/assets/a3b61e65-225e-4871-8180-50f228cb4efa)
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
 
 ## Processo de Instalação
 
-1. **Clone o Repositório**:
+1. **Atualize seu sistema**:
 
    ```bash
-   git clone https://github.com/usuario/AckHttp.git
+   apt-get update; apt-get upgrade -y
    ```
 
-2. **Navegue para o Diretório do Script**:
+2. **Faça o download do Script Agora**:
 
    ```bash
-   cd AckHttp
+   wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
    ```
 
-3. **Configure as Variáveis e Opções Conforme Necessário.**
-
-4. **Escolha o Método de Instalação**:
+3. **Escolha o Método de Instalação**:
 
    - **Instalação Assistida ao Vivo**: Se você escolher a instalação assistida ao vivo, o processo será guiado diretamente na tela do terminal. Isso permite acompanhar o progresso em tempo real e fornecer respostas imediatas a quaisquer prompts que possam surgir. Ideal para quem prefere monitorar cada etapa da instalação de perto.
 
    - **Instalação em Segundo Plano**: Se você optar pela instalação em segundo plano, o script será executado fora do terminal, permitindo que você continue usando o sistema normalmente enquanto a instalação ocorre. As notificações sobre o progresso e quaisquer necessidades de intervenção serão enviadas por email ou Telegram, conforme sua escolha.
 
 5. **Receba Notificações**: Escolha entre notificações por email ou Telegram para acompanhar o progresso da instalação e receber alertas importantes.
-
-6. **Execute o Script**:
-
-   ```bash
-   ./AckHttp.sh
-   ```
 
 ## Funcionalidades
 
@@ -64,9 +61,9 @@ O menu principal do AckHttp inclui as seguintes opções:
 2. **Gerenciar Bots**: Controle um bot de revenda SSH/V2Ray integrado ao Telegram, com suporte para pagamentos, renovação de acessos, personalização da foto inicial e gerenciamento direto de alguns serviços. Novos bots serão adicionados em breve.
 3. **Acesso SSH**: Crie e gerencie usuários SSH, altere senhas, defina validade e limites.
 4. **Acesso V2Ray**: Crie e administre usuários V2Ray, altere datas e remova usuários.
-5. **BFoxyup**: Realize bFoxyups automáticos, incluindo dados do Painel Dtunnel Mod para garantir segurança e integridade.
+5. **Backups**: Realize backups automáticos, incluindo dados do Painel Dtunnel Mod para garantir segurança e integridade.
 6. **Sistema**: Gerencie configurações do sistema, como swap, senha do root e visualize informações de hardware e sistema em tempo real.
-7. **Auto MenuFoxy**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
+7. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
 8. **SpeedTest**: Avalie a velocidade da rede do seu servidor para garantir performance ideal.
 9. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
 0. **Sair**: Encerre o script.
