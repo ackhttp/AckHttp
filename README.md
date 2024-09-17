@@ -82,31 +82,31 @@ O menu de conexão oferece controle detalhado sobre:
 ![Screenshot_20240917-012630_Termius~2](https://github.com/user-attachments/assets/702367bd-faf3-4bd4-a179-792fdeb431aa)
 
 2. **WebSocket Padrão**: Suporte aprimorado para WebSocket Padrão.
-3. ![Screenshot_20240917-012637_Termius~2](https://github.com/user-attachments/assets/d4fadce5-c570-4696-9b8e-9252e5e677e1)
+![Screenshot_20240917-012637_Termius~2](https://github.com/user-attachments/assets/d4fadce5-c570-4696-9b8e-9252e5e677e1)
 
-4. **WebSocket Security**: Suporte aprimorado para WebSocket Security.
+3. **WebSocket Security**: Suporte aprimorado para WebSocket Security.
 ![Screenshot_20240917-012847_Termius~2](https://github.com/user-attachments/assets/5cfd2ffe-9708-4235-bb88-de81fa5e62b1)
 
 
-6. **V2Ray WebSocket**: Gerencie o WebSocket do V2Ray (Xray Core).
-7. ![Screenshot_20240917-013116_Termius~2](https://github.com/user-attachments/assets/7fa0d70d-a4f2-4059-88a7-fa42a4b903a5)
+4. **V2Ray WebSocket**: Gerencie o WebSocket do V2Ray (Xray Core).
+![Screenshot_20240917-013116_Termius~2](https://github.com/user-attachments/assets/7fa0d70d-a4f2-4059-88a7-fa42a4b903a5)
 
-8. **Stunnel5 SSL**: Configure e gerencie o Stunnel5 SSL.
-9. ![Screenshot_20240917-013008_Termius~2](https://github.com/user-attachments/assets/64e22098-0b95-482b-9bc6-5574c21b2e0b)
+5. **Stunnel5 SSL**: Configure e gerencie o Stunnel5 SSL.
+![Screenshot_20240917-013008_Termius~2](https://github.com/user-attachments/assets/64e22098-0b95-482b-9bc6-5574c21b2e0b)
 
-10. **BadVPN UDP**: Controle a funcionalidade do BadVPN para tráfego UDP.
-11. ![Screenshot_20240917-013017_Termius~2](https://github.com/user-attachments/assets/95b28fc6-7e4a-4f9c-b726-747f1af9cf96)
+6. **BadVPN UDP**: Controle a funcionalidade do BadVPN para tráfego UDP.
+![Screenshot_20240917-013017_Termius~2](https://github.com/user-attachments/assets/95b28fc6-7e4a-4f9c-b726-747f1af9cf96)
 
-12. **Servidor FTP**: Administre arquivos através do servidor FTP.
-13. ![Screenshot_20240917-013022_Termius~2](https://github.com/user-attachments/assets/267d89de-c0de-4d87-8850-868454b100cf)
+7. **Servidor FTP**: Administre arquivos através do servidor FTP.
+![Screenshot_20240917-013022_Termius~2](https://github.com/user-attachments/assets/267d89de-c0de-4d87-8850-868454b100cf)
 
-14. **OpenSSH**: Gerencie o serviço OpenSSH.
-15. ![Screenshot_20240917-013413_Termius~2](https://github.com/user-attachments/assets/55e79702-9a20-4a66-9a56-a1b045bd5684)
+8. **OpenSSH**: Gerencie o serviço OpenSSH.
+![Screenshot_20240917-013413_Termius~2](https://github.com/user-attachments/assets/55e79702-9a20-4a66-9a56-a1b045bd5684)
     
-17. **Limitador SSH**: Controle o limitador de conexões SSH, que verifica usuários a cada 120 segundos.
-18. ![Screenshot_20240917-013419_Termius~2](https://github.com/user-attachments/assets/b0c7e3c0-e670-4401-85ed-8cf83e1bbcca)
+9. **Limitador SSH**: Controle o limitador de conexões SSH, que verifica usuários a cada 120 segundos.
+![Screenshot_20240917-013419_Termius~2](https://github.com/user-attachments/assets/b0c7e3c0-e670-4401-85ed-8cf83e1bbcca)
 
-19. **Painel Dtunnel Mod**: Suporte completo para o painel Dtunnel Mod, com bFoxyup automático integrado.
+10. **Painel Dtunnel Mod**: Suporte completo para o painel Dtunnel Mod, com bFoxyup automático integrado.
 ![Screenshot_20240917-013431_Termius~2](https://github.com/user-attachments/assets/17a3f05d-c6c4-4724-8862-9c047725b8ce)
 
 ### Bot de Revenda para Telegram
