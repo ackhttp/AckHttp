@@ -25,14 +25,15 @@
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
 ---
+
+## Processo de Instalação AckHttp
+![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
+
 ## Script para habilitar o modo ROOT
 
 ```bash
 wget -q https://github.com/ackhttp/AckHttp/raw/main/habilitar-root.sh; chmod +x ./habilitar-root.sh; ./habilitar-root.sh
 ```
-
-## Processo de Instalação AckHttp
-![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
 
 1. **Atualize seu sistema**:
 
