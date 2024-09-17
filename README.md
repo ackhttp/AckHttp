@@ -44,7 +44,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/habilitar-root.sh; chmod +x 
 apt-get update; apt-get upgrade -y
 ```
 
-2. **Faça o download do Script**:
+2. **Faça o download do Script AckHttp**:
    
  ```bash
 wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
