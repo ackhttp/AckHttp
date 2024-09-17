@@ -20,8 +20,6 @@
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
 - ![Screenshot_20240917-050040_Termius~3](https://github.com/user-attachments/assets/c7612ba7-b3a1-4954-9c3d-d6f6b06be2e8)
 
-- **Instalação**: Ao instalar o script pela primeira vez, você pode optar por uma instalação assistida ao vivo ou em segundo plano. Durante o processo, você será notificado sobre o progresso e qualquer necessidade de intervenção, podendo receber essas notificações por email ou Telegram.
-
 # Contato para Compra
 ![Telegram-app-700x394](https://github.com/user-attachments/assets/dd75b0eb-c9e7-4860-953a-1ebc46d11bf3)
 
