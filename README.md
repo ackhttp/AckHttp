@@ -8,26 +8,28 @@
 - **Sistema Operacional**:
   - **Ubuntu**: 18.04 ou superior.
   - **Debian**: 9 ou superior.
+  
 - **Recomendação de Recursos**: Máquinas com 1 GB de RAM ou mais para um desempenho ideal.
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
-![Screenshot_20240917-050745_Termius~4](https://github.com/user-attachments/assets/ded68769-7db4-4b3a-aedb-2abb2ecbb3cc)
+![6136206979ef91e204bcf9f361fd5680](https://github.com/user-attachments/assets/15c93344-509f-47a2-9715-8aff44eda375)
+
 
 
 - **Preço**: O script está disponível a partir de R$7,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
-- ![Screenshot_20240917-050040_Termius~3](https://github.com/user-attachments/assets/c7612ba7-b3a1-4954-9c3d-d6f6b06be2e8)
 
 # Contato para Compra
 ![Telegram-app-700x394](https://github.com/user-attachments/assets/dd75b0eb-c9e7-4860-953a-1ebc46d11bf3)
-
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
 
 ## Processo de Instalação
+![d01d4513378dc9bcc24a6d374054025d](https://github.com/user-attachments/assets/d3d0b435-8af4-4a88-8350-a50f18f71ae4)
+
 
 1. **Atualize seu sistema**:
 
