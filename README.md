@@ -160,3 +160,15 @@ Usuário Comum
 ![Screenshot_20240917-023341_HTTP Custom~2](https://github.com/user-attachments/assets/dda1779c-0ae1-437b-ad25-c386542eb59b)
 Usuário Teste
 ![Screenshot_20240917-023539_HTTP Custom~2](https://github.com/user-attachments/assets/d1961597-8bc6-4aab-a7ed-c278ebcec5ff)
+
+===============
+Entendi! Aqui está uma versão mais adequada para o contexto de um README no GitHub:
+
+---
+
+## 🧡 Agradecimentos
+![cca628c529e253ace75acb21cc60f431](https://github.com/user-attachments/assets/0a29389a-18bc-4109-9476-7fab49e77f68)
+
+Obrigado por ler até aqui! Sua atenção é muito importante para nós. Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades. Fique à vontade para contribuir ou deixar sugestões para o desenvolvimento contínuo. 
+
+Fique de olho para futuras atualizações!
