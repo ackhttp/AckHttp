@@ -2,20 +2,20 @@
 
 **AckHttp** é um script robusto e intuitivo para o gerenciamento de servidores e conexões. Desenvolvido para simplificar a administração de serviços e bots, o AckHttp proporciona uma gestão eficiente através de um menu interativo, abrangendo desde conexões de rede até bots de revenda avançados. **Versão 1**.
 
+## Requisitos Mínimos
+
+- **Sistema Operacional**:
+  - **Ubuntu**: 18.04 ou superior.
+  - **Debian**: 9 ou superior.
+- **Recomendação de Recursos**: Máquinas com 1 GB de RAM ou mais para um desempenho ideal.
+- **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
+
 ## Informações de Compra e Instalação
 
 - **Preço**: O script está disponível a partir de R$7,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
 - **Instalação**: Ao instalar o script pela primeira vez, você pode optar por uma instalação assistida ao vivo ou em segundo plano. Durante o processo, você será notificado sobre o progresso e qualquer necessidade de intervenção, podendo receber essas notificações por email ou Telegram.
-
-## Requisitos Mínimos
-
-- **Sistema Operacional**:
-  - **Ubuntu**: 18.04 ou superior.
-  - **Debian**: 9 ou superior.
-- **Recomendação de Recursos**: Máquinas com 2 GB de RAM ou mais para um desempenho ideal.
-- **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 # Contato para Compra
 
