@@ -112,9 +112,8 @@ O AckHTTP inclui um bot de revenda para Telegram com uma série de recursos avan
     ![Envio de Mensagens](https://github.com/user-attachments/assets/ccd5424f-4e3a-4771-84da-fdfda5cc18f0)
   - **Criação de Revendas**: Configure revendas com vencimento, limites e outros detalhes.
     ![Criação de Revendas](https://github.com/user-attachments/assets/cef8bb4f-5869-413a-ad7f-e3603ac7261f)
-  - **Criação e Gerenciamento de Usuários**: Crie e administre usuários SSH e V2Ray, com alterações de validade, limites e sen
-
-has.
+  - **Criação e Gerenciamento de Usuários**: Crie e administre usuários SSH e V2Ray, com alterações de validade, limites e senhas.
+    
     ![Criação e Gerenciamento de Usuários](https://github.com/user-attachments/assets/ed251139-6255-403a-b034-22ac3bfccb9e)
 
 ### CheckUser Universal
