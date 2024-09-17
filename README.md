@@ -51,7 +51,7 @@ O menu de conexão oferece controle detalhado sobre:
 14. **OpenSSH**: Gerencie o serviço OpenSSH.
 15. ![Screenshot_20240917-013413_Termius~2](https://github.com/user-attachments/assets/55e79702-9a20-4a66-9a56-a1b045bd5684)
     
-17. **Limitador SSH**: Controle o limitador de conexões SSH.
+17. **Limitador SSH**: Controle o limitador de conexões SSH, que verifica usuários a cada 120 segundos.
 18. ![Screenshot_20240917-013419_Termius~2](https://github.com/user-attachments/assets/b0c7e3c0-e670-4401-85ed-8cf83e1bbcca)
 
 19. **Painel Dtunnel Mod**: Suporte completo para o painel Dtunnel Mod, com backup automático integrado.
@@ -83,7 +83,8 @@ O AckHTTP inclui um bot de revenda para Telegram com recursos avançados, como:
   - ![Screenshot_20240917-015148_Telegraph~2](https://github.com/user-attachments/assets/ad20bfb8-5e3e-49b5-89d5-1ae3f6e283e2)
 
   - **Backup Automático**: Se ativado, o bot pode gerar backups automaticamente a cada 2 horas, garantindo que seus dados sejam sempre protegidos e atualizados.
-  - ![Screenshot_20240917-015148_Telegraph~2](https://github.com/user-attachments/assets/9de9880d-072c-4efc-8830-f77616ae55a3)
+-![Screenshot_20240917-022637_Telegraph~2](https://github.com/user-attachments/assets/3e095838-8413-4760-8e24-2c48772f20a5)
+
 
   - **Envio de Mensagens**: Envie mensagens para todos os usuários do bot, facilitando a comunicação em massa e a disseminação de informações importantes.
   - ![Screenshot_20240917-022852_Telegraph~2](https://github.com/user-attachments/assets/ccd5424f-4e3a-4771-84da-fdfda5cc18f0)
@@ -96,6 +97,10 @@ O AckHTTP inclui um bot de revenda para Telegram com recursos avançados, como:
 ![Screenshot_20240917-015131_Telegraph~2](https://github.com/user-attachments/assets/9e2e30e0-ce23-443a-b5c6-a77f93e24e44)
 
 ### CheckUser Universal
+Usuário Comum
+![Screenshot_20240917-023341_HTTP Custom~2](https://github.com/user-attachments/assets/dda1779c-0ae1-437b-ad25-c386542eb59b)
+Usuário Teste
+![Screenshot_20240917-023539_HTTP Custom~2](https://github.com/user-attachments/assets/d1961597-8bc6-4aab-a7ed-c278ebcec5ff)
 
 - **Informações do Usuário**: O sistema inclui uma funcionalidade de `checkuser` universal que exibe informações detalhadas sobre o usuário em qualquer aplicativo VPN. Quando um usuário se conecta, o registro de conexão mostra:
   - **Data de Criação**: Quando o usuário foi criado.
