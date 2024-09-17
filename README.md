@@ -67,6 +67,8 @@ O menu principal do AckHttp inclui as seguintes opções:
 0. **Sair**: Encerre o script.
 
 ### Menu de Conexão
+![17285fc448d970cdd53b1b3ba11d7e66](https://github.com/user-attachments/assets/57e354c1-9930-498b-9298-5c4cd367236e)
+
 ![Screenshot_20240917-012452_Termius~2](https://github.com/user-attachments/assets/92c4007a-15d6-4d1b-bac4-f13fb25d6429)
 
 O menu de conexão oferece controle detalhado sobre:
