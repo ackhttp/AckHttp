@@ -15,7 +15,7 @@
 ## Informações de Compra e Instalação
 ![462dd62fd672834fd81a735fe190f574](https://github.com/user-attachments/assets/f5900010-6065-46de-81dc-e97a574eaaa8)
 
-- **Preço**: O script está disponível a partir de R$7,00.
+- **Preço**: O script está disponível a partir de R$10,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
 
