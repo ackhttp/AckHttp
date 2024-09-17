@@ -1,6 +1,6 @@
-# FoxyHTTP
+# AckHttp
 
-**FoxyHTTP** é um script robusto e intuitivo para o gerenciamento de servidores e conexões. Desenvolvido para simplificar a administração de serviços e bots, o FoxyHTTP proporciona uma gestão eficiente através de um menu interativo, abrangendo desde conexões de rede até bots de revenda avançados. **Versão 1**.
+**AckHttp** é um script robusto e intuitivo para o gerenciamento de servidores e conexões. Desenvolvido para simplificar a administração de serviços e bots, o AckHttp proporciona uma gestão eficiente através de um menu interativo, abrangendo desde conexões de rede até bots de revenda avançados. **Versão 1**.
 
 ## Informações de Compra e Instalação
 
@@ -17,18 +17,23 @@
 - **Recomendação de Recursos**: Máquinas com 2 GB de RAM ou mais para um desempenho ideal.
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
+# Contato para Compra
+
+Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
+
+
 ## Processo de Instalação
 
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/usuario/Foxyhttp.git
+   git clone https://github.com/usuario/AckHttp.git
    ```
 
 2. **Navegue para o Diretório do Script**:
 
    ```bash
-   cd Foxyhttp
+   cd AckHttp
    ```
 
 3. **Configure as Variáveis e Opções Conforme Necessário.**
@@ -44,7 +49,7 @@
 6. **Execute o Script**:
 
    ```bash
-   ./Foxyhttp.sh
+   ./AckHttp.sh
    ```
 
 ## Funcionalidades
@@ -53,7 +58,7 @@
 
 ![Menu Principal](https://github.com/user-attachments/assets/42331cf6-199b-43ca-8201-90b94e2aa75e)
 
-O menu principal do FoxyHTTP inclui as seguintes opções:
+O menu principal do AckHttp inclui as seguintes opções:
 
 1. **Configurar Conexões**: Gerencie conexões e serviços de rede com facilidade.
 2. **Gerenciar Bots**: Controle um bot de revenda SSH/V2Ray integrado ao Telegram, com suporte para pagamentos, renovação de acessos, personalização da foto inicial e gerenciamento direto de alguns serviços. Novos bots serão adicionados em breve.
@@ -105,7 +110,7 @@ O menu de conexão oferece controle detalhado sobre:
 ### Bot de Revenda para Telegram
 ![Screenshot_20240917-024134_Photos~2](https://github.com/user-attachments/assets/e1a79d8a-e129-4613-818c-1286f94fa192)
 
-O FoxyHTTP inclui um bot de revenda para Telegram com recursos avançados, como:
+O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
 
 - **Suporte a APIs de pagamento**: Integrado com Mercado Pago e PagHiper.
 - ![Screenshot_20240917-020738_Termius~2](https://github.com/user-attachments/assets/61b2f145-a581-4602-b9d6-904c840ba37e)
@@ -153,30 +158,3 @@ Usuário Teste
   - **Vencimento**: Data de vencimento do acesso.
   - **Limite**: Limite de uso do usuário.
   - **Tipo de Usuário**: Indica se o usuário é **premium** (para usuários regulares) ou **temporário** (para testes).
-
-
-## Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/usuario/Foxyhttp.git
-   ```
-
-2. Navegue para o diretório do script:
-
-   ```bash
-   cd Foxyhttp
-   ```
-
-3. Configure as variáveis e opções conforme necessário.
-
-4. Execute o script:
-
-   ```bash
-   ./Foxyhttp.sh
-   ```
-
-## Contato
-
-Para dúvidas, suporte ou sugestões, entre em contato pelo telegram: https://t.me/foxyvpn
