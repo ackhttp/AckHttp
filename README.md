@@ -24,10 +24,8 @@
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
-
 ## Processo de Instalação
 ![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
-
 
 1. **Atualize seu sistema**:
 
@@ -35,7 +33,7 @@ Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em con
    apt-get update; apt-get upgrade -y
    ```
 
-2. **Faça o download do Script Agora**:
+2. **Faça o download do Script**:
 
    ```bash
    wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
