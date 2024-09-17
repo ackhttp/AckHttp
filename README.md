@@ -125,6 +125,8 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
   - ![Screenshot_20240917-022325_Telegraph~2](https://github.com/user-attachments/assets/bda43b9e-483a-47fc-98a8-ddc9c175ae90)
 - ![Screenshot_20240917-022356_Telegraph~2](https://github.com/user-attachments/assets/bd271d61-1426-4c3f-8a87-be3b2f37ce90)
 
+![b0552c0a889c4c5e53760faed8b96e7e](https://github.com/user-attachments/assets/13d8f817-c11f-4231-86da-d0de21711f72)
+
   - **Backup e Restauração**: Oferece a capacidade de criar e restaurar backups diretamente pelo bot.
   - ![Screenshot_20240917-015148_Telegraph~2](https://github.com/user-attachments/assets/ad20bfb8-5e3e-49b5-89d5-1ae3f6e283e2)
 
