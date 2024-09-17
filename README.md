@@ -13,33 +13,38 @@
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
-![0387407fd297b3f3187d4644f01bc678](https://github.com/user-attachments/assets/8a7d8339-f69e-42fd-8e86-abc32f1f441d)
+![462dd62fd672834fd81a735fe190f574](https://github.com/user-attachments/assets/f5900010-6065-46de-81dc-e97a574eaaa8)
 
 - **Preço**: O script está disponível a partir de R$7,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
 - **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
 
 # Contato para Compra
-![Telegram-app-700x394](https://github.com/user-attachments/assets/dd75b0eb-c9e7-4860-953a-1ebc46d11bf3)
+![2117670aad782aec702a75e2a736a37e](https://github.com/user-attachments/assets/e60a3963-9e63-4823-8702-6ecfcbdd576d)
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
 ---
+## Script para habilitar o modo ROOT
 
-## Processo de Instalação
+```bash
+wget -q https://github.com/ackhttp/AckHttp/raw/main/habilitar-root.sh; chmod +x ./habilitar-root.sh; ./habilitar-root.sh
+```
+
+## Processo de Instalação AckHttp
 ![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
 
 1. **Atualize seu sistema**:
 
-   ```bash
-   apt-get update; apt-get upgrade -y
-   ```
+```bash
+apt-get update; apt-get upgrade -y
+```
 
 2. **Faça o download do Script**:
-
-   ```bash
-   wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
-   ```
+   
+ ```bash
+wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
+ ```
 
 3. **Escolha o Método de Instalação**:
 
