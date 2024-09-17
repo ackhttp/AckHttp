@@ -13,9 +13,7 @@
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
-![6136206979ef91e204bcf9f361fd5680](https://github.com/user-attachments/assets/15c93344-509f-47a2-9715-8aff44eda375)
-
-
+![0387407fd297b3f3187d4644f01bc678](https://github.com/user-attachments/assets/8a7d8339-f69e-42fd-8e86-abc32f1f441d)
 
 - **Preço**: O script está disponível a partir de R$7,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
@@ -28,7 +26,7 @@ Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em con
 
 
 ## Processo de Instalação
-![d01d4513378dc9bcc24a6d374054025d](https://github.com/user-attachments/assets/d3d0b435-8af4-4a88-8350-a50f18f71ae4)
+![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
 
 
 1. **Atualize seu sistema**:
