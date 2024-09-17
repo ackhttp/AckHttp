@@ -103,6 +103,8 @@ O menu de conexão oferece controle detalhado sobre:
 ![Screenshot_20240917-013431_Termius~2](https://github.com/user-attachments/assets/17a3f05d-c6c4-4724-8862-9c047725b8ce)
 
 ### Bot de Revenda para Telegram
+![5fd179989392a06192478a3b1e1be42d](https://github.com/user-attachments/assets/350fecf5-d31d-4e3c-82c8-a38dea9bf0b6)
+
 ![Screenshot_20240917-024134_Photos~2](https://github.com/user-attachments/assets/e1a79d8a-e129-4613-818c-1286f94fa192)
 
 O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
