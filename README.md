@@ -24,6 +24,8 @@
 
 Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
 
+---
+
 ## Processo de Instalação
 ![d05417b09f6dbe1ba7198605a58c754b](https://github.com/user-attachments/assets/dedb1189-46bf-44e4-acbe-e497e0abea51)
 
@@ -67,7 +69,7 @@ O menu principal do AckHttp inclui as seguintes opções:
 0. **Sair**: Encerre o script.
 
 ### Menu de Conexão
-![17285fc448d970cdd53b1b3ba11d7e66](https://github.com/user-attachments/assets/57e354c1-9930-498b-9298-5c4cd367236e)
+![925d0f283ce4c206f23f207a8b4ecfd7](https://github.com/user-attachments/assets/8439fa6b-3e8a-40de-b03e-e4a26dbfd268)
 
 ![Screenshot_20240917-012452_Termius~2](https://github.com/user-attachments/assets/92c4007a-15d6-4d1b-bac4-f13fb25d6429)
 
@@ -116,18 +118,15 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
 
 - **Pagamentos por PIX**: Permite que os usuários renovem acessos, comprem mais dias ou aumentem limites de uso diretamente via PIX.
 ![Screenshot_20240917-021300_Telegraph~2](https://github.com/user-attachments/assets/52c6946b-90cb-468e-9e06-59e25443a31c)
-- ![Screenshot_20240917-021315_Telegraph~2](https://github.com/user-attachments/assets/24090ddf-335e-4979-8c87-7397f81047b9)
-- ![Screenshot_20240917-021338_Telegraph~2](https://github.com/user-attachments/assets/bbe7d143-5049-4721-874b-5598318b8668)
 
-![Screenshot_20240917-021350_Telegraph~2](https://github.com/user-attachments/assets/21c6d27b-3637-45b9-87bb-d186e65892a5)
+- ![Screenshot_20240917-021338_Telegraph~2](https://github.com/user-attachments/assets/bbe7d143-5049-4721-874b-5598318b8668)
 
 - **Personalização da Foto Inicial**: Os usuários podem personalizar a foto inicial do bot ao seu gosto.
 - ![Screenshot_20240917-022011_Telegraph~2](https://github.com/user-attachments/assets/caa2eafc-6b0a-4dec-bb4c-ba4c2f29192e)
 
 - **Gerenciamento de Serviços**:
   - **Ativar e Desativar Limitador SSH**: Permite que os usuários ativem ou desativem o limitador SSH diretamente pelo bot.
-  - ![Screenshot_20240917-022325_Telegraph~2](https://github.com/user-attachments/assets/bda43b9e-483a-47fc-98a8-ddc9c175ae90)
-- ![Screenshot_20240917-022356_Telegraph~2](https://github.com/user-attachments/assets/bd271d61-1426-4c3f-8a87-be3b2f37ce90)
+- ![Screenshot_20240917-022325_Telegraph~2](https://github.com/user-attachments/assets/bda43b9e-483a-47fc-98a8-ddc9c175ae90)
 
 ![b0552c0a889c4c5e53760faed8b96e7e](https://github.com/user-attachments/assets/13d8f817-c11f-4231-86da-d0de21711f72)
 
@@ -149,6 +148,7 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
 ![Screenshot_20240917-015131_Telegraph~2](https://github.com/user-attachments/assets/9e2e30e0-ce23-443a-b5c6-a77f93e24e44)
 
 ### CheckUser Universal
+![b5c9cc005a2340f09c3a96304c5ed7b9](https://github.com/user-attachments/assets/51357482-3ddf-43c1-9c5a-d8a919160236)
 
 - **Informações do Usuário**: O sistema inclui uma funcionalidade de `checkuser` universal que exibe informações detalhadas sobre o usuário em qualquer aplicativo VPN. Quando um usuário se conecta, o registro de conexão mostra:
   - **Data de Criação**: Quando o usuário foi criado.
