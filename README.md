@@ -11,8 +11,6 @@
   
 - **Recomendação de Recursos**: Máquinas com 1 GB de RAM ou mais para um desempenho ideal.
 
-![d0c0c4f1e31e427ca07838efcdac9495](https://github.com/user-attachments/assets/6bdc2ee6-b0dd-4b8a-859b-8ecce3144376)
-
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
@@ -59,8 +57,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 ## Funcionalidades
 
 ### Menu Principal
-
-![Menu Principal](https://github.com/user-attachments/assets/42331cf6-199b-43ca-8201-90b94e2aa75e)
+![Screenshot_20240918-015642_Termius~2](https://github.com/user-attachments/assets/bbc8a7fc-a41d-49c0-96b5-8cb15e5e18f4)
 
 O menu principal do AckHttp inclui as seguintes opções:
 
@@ -73,6 +70,7 @@ O menu principal do AckHttp inclui as seguintes opções:
 7. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
 8. **SpeedTest**: Avalie a velocidade da rede do seu servidor para garantir performance ideal.
 9. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
+10. **Desinstalar Script**: Remove o AckHttp do seu servidor.
 0. **Sair**: Encerre o script.
 
 ### Menu de Conexão
