@@ -150,6 +150,10 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
 ![Screenshot_20240917-015124_Telegraph~2](https://github.com/user-attachments/assets/ed251139-6255-403a-b034-22ac3bfccb9e)
 ![Screenshot_20240917-015131_Telegraph~2](https://github.com/user-attachments/assets/9e2e30e0-ce23-443a-b5c6-a77f93e24e44)
 
+- **Bloqueio UDP**: Permite que os usuários habilitem e desativem o protocolo UDP para conexões SSH, proporcionando um controle mais granular sobre o desempenho e a segurança das suas conexões.
+![Screenshot_20240920-113439_Telegraph](https://github.com/user-attachments/assets/5a17603a-2bf0-4aa3-b931-3b1a8edc16ff)
+
+
 ### CheckUser Universal
 ![b5c9cc005a2340f09c3a96304c5ed7b9](https://github.com/user-attachments/assets/51357482-3ddf-43c1-9c5a-d8a919160236)
 
