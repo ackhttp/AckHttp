@@ -158,7 +158,7 @@ O AckHttp inclui um bot de revenda para Telegram com recursos avançados, como:
   - **Vencimento**: Data de vencimento do acesso.
   - **Limite**: Limite de uso do usuário.
   - **Tipo de Usuário**: Indica se o usuário é **premium** (para usuários regulares) ou **temporário** (para testes).
-  - - **Protocolo UDP**: Indica se o protocolo UDP está ativado ou não.
+  - **Protocolo UDP**: Indica se o protocolo UDP está ativado ou não.
 
 Usuário Comum
 ![Screenshot_20240920-113721_HTTP Custom~2](https://github.com/user-attachments/assets/f1112f1b-09af-4b38-8f76-39fc15e9b5c9)
