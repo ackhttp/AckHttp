@@ -76,6 +76,8 @@ Del. **Desinstalar Script**: Remove o AckHttp do seu servidor.
 
 Att. **Atualizar Script**: Atualizar o AckHttp para uma nova versão.
 
+Now. **Reiniciar Servidor**: Permite reiniciar seu servidor diretamente no menu principal.
+
 ### Menu de Conexão
 ![925d0f283ce4c206f23f207a8b4ecfd7](https://github.com/user-attachments/assets/8439fa6b-3e8a-40de-b03e-e4a26dbfd268)
 
