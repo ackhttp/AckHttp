@@ -73,6 +73,7 @@ O menu principal do AckHttp inclui as seguintes opções:
 0. **Sair**: Encerre o script.
 
 Del. **Desinstalar Script**: Remove o AckHttp do seu servidor.
+
 Att. **Atualizar Script**: Atualizar o AckHttp para uma nova versão.
 
 ### Menu de Conexão
