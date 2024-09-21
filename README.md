@@ -57,7 +57,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 ## Funcionalidades
 
 ### Menu Principal
-![Screenshot_20240918-015642_Termius~2](https://github.com/user-attachments/assets/bbc8a7fc-a41d-49c0-96b5-8cb15e5e18f4)
+![Screenshot_20240921-110533_Termius](https://github.com/user-attachments/assets/df7b8c19-1837-4364-bcc7-96a7c998390f)
 
 O menu principal do AckHttp inclui as seguintes opções:
 
@@ -70,8 +70,10 @@ O menu principal do AckHttp inclui as seguintes opções:
 7. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
 8. **SpeedTest**: Avalie a velocidade da rede do seu servidor para garantir performance ideal.
 9. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
-10. **Desinstalar Script**: Remove o AckHttp do seu servidor.
 0. **Sair**: Encerre o script.
+
+Del. **Desinstalar Script**: Remove o AckHttp do seu servidor.
+Att. **Atualizar Script**: Atualizar o AckHttp para uma nova versão.
 
 ### Menu de Conexão
 ![925d0f283ce4c206f23f207a8b4ecfd7](https://github.com/user-attachments/assets/8439fa6b-3e8a-40de-b03e-e4a26dbfd268)
