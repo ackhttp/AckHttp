@@ -1,5 +1,5 @@
 # AckHttp
-╰─> **Versão 1**
+╰─> **Versão 1.0.0**
 
 **AckHttp** é um script robusto e intuitivo para o gerenciamento de servidores e conexões. Desenvolvido para simplificar a administração de serviços e bots, o AckHttp proporciona uma gestão eficiente através de um menu interativo, abrangendo desde conexões de rede até bots de revenda avançados.
 
@@ -57,7 +57,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 ## Funcionalidades
 
 ### Menu Principal
-![Screenshot_20240921-162237_Termius](https://github.com/user-attachments/assets/8ab7444a-00de-4ba6-b5f2-106bda18df2a)
+![Screenshot_20240922-070318_Termius](https://github.com/user-attachments/assets/c680782d-880d-4e17-9c18-5326992ecadb)
 
 O menu principal do AckHttp inclui as seguintes opções:
 
