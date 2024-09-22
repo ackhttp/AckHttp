@@ -14,7 +14,7 @@
 - **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
 
 ## Informações de Compra e Instalação
-![462dd62fd672834fd81a735fe190f574](https://github.com/user-attachments/assets/f5900010-6065-46de-81dc-e97a574eaaa8)
+![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/4d6e060e-2d49-4740-a35b-4a5fc4ee2eaf)
 
 - **Preço**: O script está disponível a partir de R$10,00.
 - **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
@@ -179,7 +179,7 @@ Usuário Teste
 ---
 
 ## 🧡 Agradecimentos
-![cca628c529e253ace75acb21cc60f431](https://github.com/user-attachments/assets/0a29389a-18bc-4109-9476-7fab49e77f68)
+![f1b65bbe143e046fffe0b3f4bafb8c9e](https://github.com/user-attachments/assets/831d1b68-bc8b-4db3-b247-363a6342c460)
 
 Obrigado por ler até aqui! Sua atenção é muito importante para nós. Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades. Fique à vontade para contribuir ou deixar sugestões para o desenvolvimento contínuo. 
 
