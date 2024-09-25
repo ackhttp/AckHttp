@@ -11,8 +11,6 @@
   
 - **Recomendação de Recursos**: Máquinas com 1 GB de RAM ou mais para um desempenho ideal.
 
-- **Arquitetura**: No momento, o script não suporta arquitetura ARM. Futuramente, o suporte para ARM será adicionado.
-
 ## Informações de Compra e Instalação
 ![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/4d6e060e-2d49-4740-a35b-4a5fc4ee2eaf)
 
