@@ -23,7 +23,7 @@
 # Contato para Compra
 ![2117670aad782aec702a75e2a736a37e](https://github.com/user-attachments/assets/e60a3963-9e63-4823-8702-6ecfcbdd576d)
 
-Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/foxyvpn
+Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram: https://t.me/chiyoussh
 
 ---
 
