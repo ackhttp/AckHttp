@@ -55,7 +55,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 ## Funcionalidades
 
 ### Menu Principal
-![IMG_20240926_144644_923](https://github.com/user-attachments/assets/0e0d8484-8684-41c7-a925-1329cac6e3ca)
+![Screenshot_20240926-152307_Termius](https://github.com/user-attachments/assets/1ed3c9b5-5edc-4752-b26e-b8ae3873c99d)
 
 O menu principal do AckHttp inclui as seguintes opções:
 
