@@ -48,9 +48,9 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 
 3. **Escolha o Método de Instalação**:
 
-   - **Instalação Assistida ao Vivo**: Se você escolher a instalação assistida ao vivo, o processo será guiado diretamente na tela do terminal. Isso permite acompanhar o progresso em tempo real e fornecer respostas imediatas a quaisquer prompts que possam surgir. Ideal para quem prefere monitorar cada etapa da instalação de perto.
+- **Instalação Assistida ao Vivo**: Se você escolher a instalação assistida ao vivo, o processo será guiado diretamente na tela do terminal. Isso permite acompanhar o progresso em tempo real e fornecer respostas imediatas a quaisquer prompts que possam surgir. Ideal para quem prefere monitorar cada etapa da instalação de perto.
 
-   - **Instalação em Segundo Plano**: Se você optar pela instalação em segundo plano, o script será executado fora do terminal, permitindo que você continue usando o sistema normalmente enquanto a instalação ocorre. As notificações sobre o progresso e quaisquer necessidades de intervenção serão enviadas por email ou Telegram, conforme sua escolha.
+- **Instalação em Segundo Plano**: Se você optar pela instalação em segundo plano, o script será executado fora do terminal, permitindo que você continue usando o sistema normalmente enquanto a instalação ocorre. As notificações sobre o progresso e quaisquer necessidades de intervenção serão enviadas por email ou Telegram, conforme sua escolha.
 
 ## Funcionalidades
 
@@ -59,15 +59,16 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 
 O menu principal do AckHttp inclui as seguintes opções:
 
-1. **Configurar Conexões**: Gerencie conexões e serviços de rede com facilidade.
-2. **Gerenciar Bots**: Controle um bot de revenda SSH/V2Ray integrado ao Telegram, com suporte para pagamentos, renovação de acessos, personalização da foto inicial e gerenciamento direto de alguns serviços. Novos bots serão adicionados em breve.
+1. **Gerenciar Bots**: Controle um bot de revenda SSH/V2Ray integrado ao Telegram, com suporte para pagamentos, renovação de acessos, personalização da foto inicial e gerenciamento direto de alguns serviços. Novos bots serão adicionados em breve.
+2. **Configurar Conexões**: Gerencie conexões e serviços de rede com facilidade.
 3. **Acesso SSH**: Crie e gerencie usuários SSH, altere senhas, defina validade e limites.
 4. **Acesso V2Ray**: Crie e administre usuários V2Ray, altere datas e remova usuários.
 5. **Backups**: Realize backups automáticos, incluindo dados do Painel Dtunnel Mod para garantir segurança e integridade.
 6. **Sistema**: Gerencie configurações do sistema, como swap, senha do root e visualize informações de hardware e sistema em tempo real.
-7. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
-8. **SpeedTest**: Avalie a velocidade da rede do seu servidor para garantir performance ideal.
-9. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
+7. **SpeedTest**: Avalie a velocidade da rede do seu servidor para garantir performance ideal.
+8. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
+9. **Fastly CDN** Oferece uma interface simples para gerenciamento de serviços CDN através do Fastly pelo terminal.
+10. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
 0. **Sair**: Encerre o script.
 
 Del. **Desinstalar Script**: Remove o AckHttp do seu servidor.
@@ -113,6 +114,21 @@ O menu de conexão oferece controle detalhado sobre:
 
 10. **Painel Dtunnel Mod**: Suporte completo para o painel Dtunnel Mod, com bFoxyup automático integrado.
 ![Screenshot_20240917-013431_Termius~2](https://github.com/user-attachments/assets/17a3f05d-c6c4-4724-8862-9c047725b8ce)
+
+### Menu Fastly ~ AckHttp
+![Screenshot_20240926-143133_Termius~2](https://github.com/user-attachments/assets/5f0aed21-0e22-4f0a-b7bb-2dbbf0b393a1)
+
+O **Menu Fastly** fornece uma interface simples para gerenciamento de serviços CDN através do Fastly. Este menu interativo permite realizar várias operações diretamente da linha de comando, de forma prática e eficiente.
+
+#### Opções do Menu:
+
+1. **Configurar Token**: Define o token de API do Fastly, necessário para autenticação e execução das operações. O símbolo de seleção (`☐`) indica se o token foi configurado ou não.
+   
+2. **Criar CDN Fastly**: Cria uma nova instância de CDN no Fastly, utilizando as configurações pré-definidas.
+
+3. **Deletar CDN Fastly**: Remove uma instância de CDN do Fastly, liberando os recursos associados.
+
+4. **Listar CDN Fastly**: Exibe uma lista de todas as CDNs configuradas no Fastly, com detalhes relevantes.
 
 ### Bot de Revenda para Telegram
 ![5fd179989392a06192478a3b1e1be42d](https://github.com/user-attachments/assets/350fecf5-d31d-4e3c-82c8-a38dea9bf0b6)
@@ -177,7 +193,7 @@ Usuário Teste
 ---
 
 ## 🧡 Agradecimentos
-![f1b65bbe143e046fffe0b3f4bafb8c9e](https://github.com/user-attachments/assets/831d1b68-bc8b-4db3-b247-363a6342c460)
+![a66b3487133cd5d4f0b1c341776bf645](https://github.com/user-attachments/assets/d575ba94-6d95-4965-874d-f5da737071fa)
 
 Obrigado por ler até aqui! Sua atenção é muito importante para nós. Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades. Fique à vontade para contribuir ou deixar sugestões para o desenvolvimento contínuo. 
 
