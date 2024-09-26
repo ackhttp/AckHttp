@@ -118,7 +118,7 @@ O menu de conexão oferece controle detalhado sobre:
 ### Menu Fastly ~ AckHttp
 ![Screenshot_20240926-143133_Termius~2](https://github.com/user-attachments/assets/5f0aed21-0e22-4f0a-b7bb-2dbbf0b393a1)
 
-O **Menu Fastly** fornece uma interface simples para gerenciamento de serviços CDN através do Fastly. Este menu interativo permite realizar várias operações diretamente da linha de comando, de forma prática e eficiente.
+Este menu interativo permite realizar várias operações diretamente da linha de comando, de forma prática e eficiente. Além disso, ao criar uma CDN, o sistema já configura automaticamente o VCL (Varnish Configuration Language) e habilita o WebSocket, facilitando seu uso com ferramentas como v2ray.
 
 #### Opções do Menu:
 
