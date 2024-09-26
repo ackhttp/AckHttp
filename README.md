@@ -192,7 +192,7 @@ Usuário Teste
 ---
 
 ## 🧡 Agradecimentos
-![a66b3487133cd5d4f0b1c341776bf645](https://github.com/user-attachments/assets/d575ba94-6d95-4965-874d-f5da737071fa)
+![0269411e6fdaef381ead552a77597200](https://github.com/user-attachments/assets/92ec53eb-b236-4726-9d88-627716ce0067)
 
 Obrigado por ler até aqui! Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades.
 
