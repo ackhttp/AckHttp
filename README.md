@@ -69,11 +69,10 @@ O menu principal do AckHttp inclui as seguintes opções:
 8. **Auto MenuAck**: Habilite ou desabilite a automação do menu para otimizar seu fluxo de trabalho.
 9. **Fastly CDN** Oferece uma interface simples para gerenciamento de serviços CDN através do Fastly pelo terminal.
 10. **Tuning TCP/UDP**: Ajuste e otimize a performance de conexões TCP/UDP.
+11. **Atualizar**: Atualize o script quando houver uma nova atualização do AckHttp disponível.
 0. **Sair**: Encerre o script.
 
 Del. **Desinstalar Script**: Remove o AckHttp do seu servidor.
-
-Att. **Atualizar Script**: Atualizar o AckHttp para uma nova versão.
 
 Now. **Reiniciar Servidor**: Permite reiniciar seu servidor diretamente no menu principal.
 
