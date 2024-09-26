@@ -195,6 +195,6 @@ Usuário Teste
 ## 🧡 Agradecimentos
 ![a66b3487133cd5d4f0b1c341776bf645](https://github.com/user-attachments/assets/d575ba94-6d95-4965-874d-f5da737071fa)
 
-Obrigado por ler até aqui! Sua atenção é muito importante para nós. Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades. Fique à vontade para contribuir ou deixar sugestões para o desenvolvimento contínuo. 
+Obrigado por ler até aqui! Este script continuará sendo atualizado regularmente, trazendo novas melhorias e funcionalidades.
 
 Fique de olho para futuras atualizações!
