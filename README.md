@@ -44,6 +44,7 @@ O AckHttp oferece duas opções de instalação para atender diferentes necessid
 **Quando usar:** *Recomendado para usuários em ambientes onde a conexão pode ser instável ou para aqueles que precisam realizar múltiplas tarefas simultaneamente.*
 
 ## Funcionalidades Extras do AckHttp
+![Screenshot_20241001-145000_Termius](https://github.com/user-attachments/assets/338d7cb2-10d0-4fea-8873-a83ca38eedf3)
 
 - **Suporte para WebSocket Security**: Script com suporte integrado.
 - **V2ray Protocolo TCP e WebSocket**: Flexibilidade para atender diferentes necessidades de comunicação.
