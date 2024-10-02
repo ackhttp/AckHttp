@@ -55,15 +55,6 @@ O AckHttp oferece duas opções de instalação para atender diferentes necessid
 
 ``E isso é apenas uma parte do que o AckHttp pode oferecer!``
 
-## Informações de Compra e Instalação
-![Screenshot_20241001-144338_Termius](https://github.com/user-attachments/assets/8b083780-2d98-4487-b452-11dabd4b0708)
-
-- **Preço**: O script está disponível a partir de R$10,00.
-- **Liberação**: A liberação e instalação do script são feitas com base no IP do seu servidor.
-- **Recomendação**: É recomendado que o servidor esteja formatado antes da instalação. Você pode instalar o script quantas vezes desejar, desde que esteja usando o mesmo IP.
-
-Para adquirir o AckHttp ou obter mais informações sobre a compra, entre em contato pelo Telegram.
-
 ![d48ce471d3bdedbbab7c99ad53174fbc](https://github.com/user-attachments/assets/d56b666a-b0f2-48df-b3b0-99de317ffea7)
 
 => ``Canal``: https://t.me/ackhttp
