@@ -55,9 +55,12 @@ O AckHttp oferece duas opções de instalação para atender diferentes necessid
 
 ``E isso é apenas uma parte do que o AckHttp pode oferecer!``
 
-![d48ce471d3bdedbbab7c99ad53174fbc](https://github.com/user-attachments/assets/d56b666a-b0f2-48df-b3b0-99de317ffea7)
+![58370c44206b9a040f579628f95dfd12](https://github.com/user-attachments/assets/3d9c76f9-a759-48bf-b460-cec7ad308931)
+
 
 => ``Canal``: https://t.me/ackhttp
+
+=> ``Grupo``: https://t.me/ackhttpgp
 
 => ``Contato``: https://t.me/chiyoussh
 
