@@ -26,22 +26,12 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
  ```
 
 Instalação do AckHttp
-![Screenshot_20241001-140520_Termius](https://github.com/user-attachments/assets/f1a5a7c2-3594-4cb8-b456-31cf5e078035)
 
-O AckHttp oferece duas opções de instalação para atender diferentes necessidades dos usuários:
+![GIF_20241004_115110_417](https://github.com/user-attachments/assets/162698df-12e3-4f76-b9d6-6e6ca5673712)
 
-1. **Instalação Em 1. Plano**
+A instalação do AckHttp oferece um processo transparente e fácil de seguir, com todas as etapas visíveis diretamente no terminal. 
 
-**Descrição**: *A instalação ocorre diretamente na tela do terminal, bloqueando a interface até que o processo seja concluído. O usuário deve aguardar até que a instalação termine e não pode realizar outras atividades no terminal durante esse tempo.*
-
-**Quando usar:** *Ideal para usuários que preferem acompanhar a instalação de forma linear e sem interrupções.*
-
-
-2. **Instalação Em 2. Plano**
-
-**Descrição:** *Permite que a instalação ocorra em segundo plano. O usuário pode iniciar a instalação e, em seguida, sair do menu ou realizar outras tarefas no terminal. Essa abordagem é útil para evitar problemas caso a conexão com a internet caia, já que o processo de instalação continua mesmo se o usuário não estiver ativamente monitorando.*
-
-**Quando usar:** *Recomendado para usuários em ambientes onde a conexão pode ser instável ou para aqueles que precisam realizar múltiplas tarefas simultaneamente.*
+Antes de iniciar a instalação, é altamente recomendado que você faça um backup ou snapshot do seu sistema para garantir a segurança dos seus dados.
 
 ## Funcionalidades Extras do AckHttp
 ![Screenshot_20241001-145000_Termius](https://github.com/user-attachments/assets/338d7cb2-10d0-4fea-8873-a83ca38eedf3)
