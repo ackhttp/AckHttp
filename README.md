@@ -25,16 +25,16 @@ apt-get update; apt-get upgrade -y
 wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ackbaixar.sh; ./ackbaixar.sh
  ```
 
-Instalação do AckHttp
+## Instalação do AckHttp
 
 ![GIF_20241004_115110_417](https://github.com/user-attachments/assets/162698df-12e3-4f76-b9d6-6e6ca5673712)
 
-A instalação do AckHttp oferece um processo transparente e fácil de seguir, com todas as etapas visíveis diretamente no terminal. 
+*A instalação do AckHttp oferece um processo transparente e fácil de seguir, com todas as etapas visíveis diretamente no terminal.*
 
-Antes de iniciar a instalação, é altamente recomendado que você faça um backup ou snapshot do seu sistema para garantir a segurança dos seus dados.
+*Antes de iniciar a instalação, é altamente recomendado que você faça um backup ou snapshot do seu sistema para garantir a segurança dos seus dados.*
 
 ## Funcionalidades Extras do AckHttp
-![Screenshot_20241001-145000_Termius](https://github.com/user-attachments/assets/338d7cb2-10d0-4fea-8873-a83ca38eedf3)
+![Screenshot_20241004-123136_Termius](https://github.com/user-attachments/assets/7c2f7e3e-1051-4105-aba3-78d4bf9706aa)
 
 - **Suporte para WebSocket Security**: Script com suporte integrado.
 - **V2ray Protocolo TCP e WebSocket**: Flexibilidade para atender diferentes necessidades de comunicação.
