@@ -6,6 +6,26 @@
 
 # Todos os direitos reservados ao criador :)
 
+# Verifica a arquitetura do sistema
+ARCH=$(uname -m)
+
+case "$ARCH" in
+    arm* | aarch64)
+        echo -e "\033[1;33mDesculpe, explorador, mas este script não suporta arquitetura ARM (incluindo aarch64). Precisamos de mais potência.\033[0m"
+        exit 1
+        ;;
+    i386 | i686)
+        echo -e "\033[1;33mVocê está usando uma arquitetura x86 de 32 bits. Este script pode não funcionar corretamente.\033[0m"
+        ;;
+    x86_64)
+        echo -e "\033[1;32mArquitetura x86 de 64 bits detectada. Continuando...\033[0m"
+        ;;
+    *)
+        echo -e "\033[1;33mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
+        exit 1
+        ;;
+esac
+
 # Baixar lsb
 if (! dpkg -l | grep -q "^ii  lsb-release" && [ ! -x "$(command -v lsb_release)" ]); then
     echo -e "\033[1;33mInstalando pacote basico...\033[0m"    
@@ -53,26 +73,6 @@ if [ "$(id -u)" -ne 0 ]; then
     echo -e "\033[1;33mEste script precisa ser executado como root.\033[0m"
     exit 1
 fi
-
-# Verifica a arquitetura do sistema
-ARCH=$(uname -m)
-
-case "$ARCH" in
-    arm* | aarch64)
-        echo -e "\033[1;33mDesculpe, explorador, mas este script não suporta arquitetura ARM (incluindo aarch64). Precisamos de mais potência.\033[0m"
-        exit 1
-        ;;
-    i386 | i686)
-        echo -e "\033[1;33mVocê está usando uma arquitetura x86 de 32 bits. Este script pode não funcionar corretamente.\033[0m"
-        ;;
-    x86_64)
-        echo -e "\033[1;32mArquitetura x86 de 64 bits detectada. Continuando...\033[0m"
-        ;;
-    *)
-        echo -e "\033[1;33mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
-        exit 1
-        ;;
-esac
 
 # Verificar se o sistema precisa reiniciar antes de prosseguir
 if [ -f /var/run/reboot-required ]; then
