@@ -1,6 +1,6 @@
 ## Requisitos Mínimos
   # AckHttp SSH/V2RAY
-  ╰─> **Versão 1.0.2**
+  ╰─> **Versão 1.0.3**
 - **Sistema Operacional**:
   - **Ubuntu**: 18.04 ou superior.
   - **Debian**: 9 ou superior.
