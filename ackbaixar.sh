@@ -82,7 +82,7 @@ if [ -f /var/run/reboot-required ]; then
     
     if [[ "$reboot_esc" == [SsYyDd]* ]]; then  # Verifica se a entrada começa com S, s, Y, y, D ou d    
         contador=6
-        mensagem "\n"
+        echo -e "\n"
         while [ $contador -ge 0 ]
         do
             printf "\r\033[1;36mReiniciando Em: \033[0m${contador}s"
