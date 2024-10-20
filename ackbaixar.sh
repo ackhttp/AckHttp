@@ -6,21 +6,6 @@
 
 # Todos os direitos reservados ao criador :)
 
-# Verifica a arquitetura do sistema
-ARCH=$(uname -m)
-
-if [[ "$ARCH" == arm* || "$ARCH" == "aarch64" ]]; then
-    echo -e "\033[1;33mDesculpe, explorador, mas este script não suporta arquitetura ARM (incluindo aarch64). Precisamos de mais potência.\033[0m"
-    exit 1
-elif [[ "$ARCH" == "i386" || "$ARCH" == "i686" ]]; then
-    echo -e "\033[1;33mVocê está usando uma arquitetura x86 de 32 bits. Este script pode não funcionar corretamente.\033[0m"
-elif [[ "$ARCH" == "x86_64" ]]; then
-    echo -e "\033[1;32mArquitetura x86 de 64 bits detectada. Continuando...\033[0m"
-else
-    echo -e "\033[1;33mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
-    exit 1
-fi
-
 # Baixar lsb
 if (! dpkg -l | grep -q "^ii  lsb-release" && [ ! -x "$(command -v lsb_release)" ]); then
     echo -e "\033[1;33mInstalando pacote basico...\033[0m"    
@@ -69,16 +54,50 @@ if [ "$(id -u)" -ne 0 ]; then
     exit 1
 fi
 
+# Verifica a arquitetura do sistema
+ARCH=$(uname -m)
+
+case "$ARCH" in
+    arm* | aarch64)
+        echo -e "\033[1;33mDesculpe, explorador, mas este script não suporta arquitetura ARM (incluindo aarch64). Precisamos de mais potência.\033[0m"
+        exit 1
+        ;;
+    i386 | i686)
+        echo -e "\033[1;33mVocê está usando uma arquitetura x86 de 32 bits. Este script pode não funcionar corretamente.\033[0m"
+        ;;
+    x86_64)
+        echo -e "\033[1;32mArquitetura x86 de 64 bits detectada. Continuando...\033[0m"
+        ;;
+    *)
+        echo -e "\033[1;33mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
+        exit 1
+        ;;
+esac
+
+# Verifica a arquitetura do sistema
+ARCH=$(uname -m)
+
+case "$ARCH" in
+    arm* | aarch64)
+        arquitetura_sys=ARM
+        ;;
+    i386 | i686)
+         arquitetura_sys=AMD32
+        ;;
+    x86_64)
+        arquitetura_sys=AMD64
+        ;;
+    *)
+        echo -e "\033[1;31mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
+        exit 1
+        ;;
+esac
+
 # Verificar se o sistema precisa reiniciar antes de prosseguir
 if [ -f /var/run/reboot-required ]; then
     tput clear && tput cup 0 0
     echo -e "\033[1;33mReinicialização do sistema é necessária!\033[0m"
     read -e -p $'\n\033[0;33mReiniciar Agora? [s/n]: \033[0m' reboot_esc
-
-    # Se estiver vazio sair...
-    if [[ -z "$reboot_esc" ]]; then
-       echo && exit 1
-    fi
     
     if [[ "$reboot_esc" == [SsYyDd]* ]]; then  # Verifica se a entrada começa com S, s, Y, y, D ou d    
         contador=6
@@ -93,14 +112,28 @@ if [ -f /var/run/reboot-required ]; then
         reboot  # Reiniciar Servidor
     elif [[ "$reboot_esc" == [Nn]* ]]; then  # Verifica se a entrada começa com N ou n 
          echo && exit 1
-    fi
+    else
+         echo && exit 1
+    fi    
 fi
+
+# Abrir diretório temporário
+cd /tmp/
 
 # Remover os arquivos baixados e os instaladores após a execução
 rm -f ackbaixar.sh* ackhttp-instalar.sh* >/dev/null 2>&1
 
-# Executar Instalador...
-cd /tmp/
-wget --timestamping --content-disposition -q "https://www.dropbox.com/scl/fi/t1axkwjzl4emdfjwmh452/ackhttp-instalar.sh?rlkey=g1flnvm0dhzgs0xnjqdzmd3zu&st=945bts38&dl=0"
+# Verifica a arquitetura do sistema armazenada na variável 'arquitetura_sys'
+if [[ "$arquitetura_sys" == "AMD64" || "$arquitetura_sys" == "AMD32" ]]; then
+    # Para sistemas AMD64 ou AMD32, baixa o script de instalação do AckHttp
+    wget --timestamping --content-disposition -q "https://www.dropbox.com/scl/fi/t1axkwjzl4emdfjwmh452/ackhttp-instalar.sh?rlkey=g1flnvm0dhzgs0xnjqdzmd3zu&st=945bts38&dl=0"
+elif [[ "$arquitetura_sys" == "ARM" ]]; then
+    # Para sistemas ARM, baixa a versão correspondente do script de instalação
+    wget --timestamping --content-disposition -q "https://www.dropbox.com/scl/fi/zqdecsxnpvg64a15yrmdp/ackhttp-instalar.sh?rlkey=gy7241qcvboler6d1alf0147e&st=b6xil659&dl=0"
+fi
+
+# Torna o script de instalação executável
 chmod +x ./ackhttp-instalar.sh
+
+# Executa o script de instalação do AckHttp
 ./ackhttp-instalar.sh
