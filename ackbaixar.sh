@@ -59,26 +59,6 @@ ARCH=$(uname -m)
 
 case "$ARCH" in
     arm* | aarch64)
-        echo -e "\033[1;33mDesculpe, explorador, mas este script não suporta arquitetura ARM (incluindo aarch64). Precisamos de mais potência.\033[0m"
-        exit 1
-        ;;
-    i386 | i686)
-        echo -e "\033[1;33mVocê está usando uma arquitetura x86 de 32 bits. Este script pode não funcionar corretamente.\033[0m"
-        ;;
-    x86_64)
-        echo -e "\033[1;32mArquitetura x86 de 64 bits detectada. Continuando...\033[0m"
-        ;;
-    *)
-        echo -e "\033[1;33mArquitetura desconhecida: $ARCH. O script pode não ser compatível.\033[0m"
-        exit 1
-        ;;
-esac
-
-# Verifica a arquitetura do sistema
-ARCH=$(uname -m)
-
-case "$ARCH" in
-    arm* | aarch64)
         arquitetura_sys=ARM
         ;;
     i386 | i686)
