@@ -37,7 +37,7 @@ sshd_config="/etc/ssh/sshd_config"
 backup_config="$HOME/sshd_config.backup"
 
 # Faz backup do arquivo de configuração do SSH
-if cp "$sshd_config" "$backup_config"; then
+if sudo cp "$sshd_config" "$backup_config"; then
   print_message $verde "Backup do arquivo de configuração realizado com sucesso."
 else
   print_message $vermelho "Erro ao fazer backup do arquivo de configuração."
