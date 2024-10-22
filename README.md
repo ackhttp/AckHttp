@@ -1,6 +1,6 @@
 ## Requisitos Mínimos
   # AckHttp SSH/V2RAY
-  ╰─> **Versão 1.0.3**
+  ╰─> **Versão 1.0.4**
 - **Sistema Operacional**:
   - **Ubuntu**: 18.04 ou superior.
   - **Debian**: 9 ou superior.
@@ -34,7 +34,7 @@ wget -q https://github.com/ackhttp/AckHttp/raw/main/ackbaixar.sh; chmod +x ./ack
 *Antes de iniciar a instalação, é altamente recomendado que você faça um backup ou snapshot do seu sistema para garantir a segurança dos seus dados.*
 
 ## Funcionalidades Extras do AckHttp
-![Screenshot_20241004-123136_Termius](https://github.com/user-attachments/assets/7c2f7e3e-1051-4105-aba3-78d4bf9706aa)
+![Screenshot_20241022-074744_Termius](https://github.com/user-attachments/assets/0ecc93e9-1307-4d84-8375-6832de5cb0a1)
 
 - **Suporte para WebSocket Security**: Script com suporte integrado.
 - **V2ray Protocolo TCP e WebSocket**: Flexibilidade para atender diferentes necessidades de comunicação.
